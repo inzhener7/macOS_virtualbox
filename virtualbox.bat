@@ -6,3 +6,4 @@ VBoxManage setextradata "Mojave" "VBoxInternal/Devices/efi/0/Config/DmiBoardProd
 VBoxManage setextradata "Mojave" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
 VBoxManage setextradata "Mojave" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1
 VBoxManage setextradata "Mojave" "VBoxInternal2/EfiGraphicsResolution" "1920x1080"
+VBoxManage setextradata "Mojave" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 0
